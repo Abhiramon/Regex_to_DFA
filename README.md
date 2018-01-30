@@ -5,7 +5,7 @@ A program which converts input regex to NFA and further to DFA
 *(Currently works for most regex, but some bugs exist)*
 
 ### Usage Instructions: 
-Execute run.py program (Use python 3) 
+Execute run.py program (Use python 2) 
 
 ### Output format:
 * Vertices: The names of the vertices (as a string of numbers)
