@@ -10,8 +10,8 @@ Execute run.py program (Use python 2)
 ### Output format:
 * Vertices: The names of the vertices (as a string of numbers)
 * Edges are repesented as ("source", "destination", "weight")
-* _ stands for epsilon transition when used as weight (in NFA)
-* _ stands for phi state (Discard state) when used as a state (in DFA)
+* '_' stands for epsilon transition when used as weight (in NFA)
+* '-' stands for phi state (Discard state) when used as a state (in DFA)
 
 ### To do:
 * Code needs to be documented
